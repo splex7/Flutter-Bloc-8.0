@@ -38,8 +38,6 @@ dependencies:
   flutter_bloc: ^8.1.2
   freezed: ^2.3.2
   build_runner: ^2.3.3
-  dio: ^5.1.1
-  http: ^0.13.5
   json_serializable: ^6.6.1
   equatable: ^2.0.5
 

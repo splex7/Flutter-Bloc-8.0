@@ -1,16 +1,22 @@
 # todolist
 
-A new Flutter project.
+This is a Flutter project for a simple Todolist application that utilizes Bloc and Cubit.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+Clone this repository and navigate to the project directory.
+Install dependencies by running flutter pub get.
+Run the project using flutter run.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses the following dependencies:
+
+cupertino_icons: ^1.0.2
+flutter_bloc: ^8.1.2
+freezed: ^2.3.2
+build_runner: ^2.3.3
+json_serializable: ^6.6.1
+equatable: ^2.0.5
